@@ -1,1 +1,17 @@
 
+@book{orwell1949,
+    author = {Orwell, George},
+    title = {1984},
+    year = {1949},
+    publisher = {Secker & Warburg}
+}
+
+@article{flores2016,
+    author = {Flores, Nelson and Rosa, Jonathan},
+    title = {Undoing Appropriateness: Raciolinguistic Ideologies},
+    journal = {Harvard Educational Review},
+    year = {2016}
+
+
+
+
